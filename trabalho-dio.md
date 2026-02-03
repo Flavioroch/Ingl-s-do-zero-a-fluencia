@@ -72,4 +72,9 @@ Tempo que conecta o passado ao presente (**Have/Has + Past Participle**). Usado 
 ## 6. Diferenças Culturais e Tecnologia
 * **Inglês Britânico vs. Americano:** Diferenças na ortografia (center/centre) e pronúncia (som do "T").
 * **Justeza no Aprendizado:** Modelos de *Deep Learning* buscam tornar o aprendizado mais preciso e justo em plataformas como o Duolingo.
-### 🎧 [Clique aqui para abrir o Player de Áudio](https://github.com/Flavioroch/Ingl-s-do-zero-a-fluencia/blob/main/Audio_podcast_02.mp3)
+---
+### 🎧 Material de Apoio em Áudio
+> **Nota:** Devido ao tamanho do arquivo original, o player está hospedado no Google Drive para garantir a reprodução online.
+
+* [▶️ Clique aqui para ouvir o Resumo da Lição (Audio Overview)](https://drive.google.com/file/d/1ZSu4KzG_NnRdwTqMN19lspAKzIOWd2rl/view?usp=sharing)
+---
